@@ -1,15 +1,14 @@
 <h1 align="center">Central Gaijin Library - CGL </h1>
 <h3 align="center">Find books in YOUR language</h3>
 
-<div align="center">
-	<img width="300" height="600" src="https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg">
+<div align="left">
+	<img width="300" height="600" src="https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/CGL-home.png">
+	<img width="300" height="600" src="https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/CGL-show.png">
+	<img width="300" height="600" src="https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/CGL-add.png">
 </div>
 
 
-
-
-
-
+	
 
 ## Table of contents
 * [Introduction](#introduction)
