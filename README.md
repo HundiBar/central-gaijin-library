@@ -1,7 +1,7 @@
 <h1 align="center">Central Gaijin Library </h1>
 <h3 align="center">Borrow the book in YOUR language</h3>
 
-![Midorin logo](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg)
+<div align="center">![Midorin logo](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg)</div>
 
 
 ## Table of contents
