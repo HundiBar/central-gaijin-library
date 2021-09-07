@@ -3,6 +3,7 @@
 
 
 ![CGLLOGO](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg)
+<img align="center" width="100" height="100" src="https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg">
 
 
 
