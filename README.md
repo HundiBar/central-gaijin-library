@@ -1,7 +1,11 @@
 <h1 align="center">Central Gaijin Library - CGL </h1>
 <h3 align="center">Borrow the book in YOUR language</h3>
 
+<div align="center">
 ![Midorin logo](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg)
+
+</div>
+
 
 
 ## Table of contents
@@ -9,7 +13,6 @@
 * [Technologies](#technologies)
 * [URL](#url)
 * [Contribution](#contributing)
-* [Credits](#credits)
 
 ## Introduction
 Our mobile application aims to be a digitalized library where foreigners in Japan can borrow books for free, in their language.  
