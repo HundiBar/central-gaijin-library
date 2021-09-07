@@ -1,10 +1,10 @@
 <h1 align="center">Central Gaijin Library - CGL </h1>
 <h3 align="center">Borrow the book in YOUR language</h3>
 
-<div align="center">
-![Midorin logo](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg)
 
-</div>
+![Midorin logo](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg){ width="800" height="600" style="display: block; margin: 0 auto" }
+
+
 
 
 
