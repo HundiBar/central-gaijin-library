@@ -2,8 +2,8 @@
 <h3 align="center">Borrow the book in YOUR language</h3>
 
 
-![CGLLOGO](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg)
-<img align="center" width="100" height="100" src="https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg">
+<!-- ![CGLLOGO](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg) -->
+<img align="center" width="300" height="600" src="https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg">
 
 
 
