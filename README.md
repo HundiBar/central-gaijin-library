@@ -2,7 +2,7 @@
 <h3 align="center">Borrow the book in YOUR language</h3>
 
 
-![Midorin logo](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg){ width="800" height="600" style="display: block; margin: 0 auto" }
+![Midorin logo](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg)
 
 
 
