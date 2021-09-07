@@ -1,25 +1,24 @@
-<h1 align="center">Central Gaijin Library </h1>
+<h1 align="center">Central Gaijin Library - CGL </h1>
 <h3 align="center">Borrow the book in YOUR language</h3>
 
-<div align="center">![Midorin logo](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg)</div>
+![Midorin logo](https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg)
 
 
 ## Table of contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)
-* [Demo](#demo)
 * [URL](#url)
 * [Contribution](#contributing)
 * [Credits](#credits)
 
 ## Introduction
-Our mobile application aims to be an all-in-one stop to become better at caring for plants. 
+Our mobile application aims to be a digitalized library where foreigners in Japan can borrow books for free, in their language.  
 
-On top of a watering scheduler and a chatroom to ask for help to your community, there is a scanner feature to recognize plants and get details about them.
+CGL has a range of books from all different genres, from kids to horror. 
 
-With Midorin, you can keep your plants healthy and happy and make better choices when buying new ones, fitting your skills and lifestyle.
+You can add value to the community by becoming a lender, and easily upload your book by using the ISBN form. 
 
-This app was the final project from Le Wagon Tokyo #batch 587 (part-time session), made with love by [Dean](https://github.com/HundiBar), [Spencer](https://github.com/Smattison0830), [Troy ](https://github.com/troyruss) and [Mylene ](https://github.com/Ren33000).
+This app was our first team project from Le Wagon Tokyo #batch 587 (part-time session), made with love by [Dean](https://github.com/HundiBar), [Spencer](https://github.com/Smattison0830), [Troy ](https://github.com/troyruss) and [Mylene ](https://github.com/Ren33000).
 
 
 ## Technologies
@@ -29,29 +28,14 @@ This app was the final project from Le Wagon Tokyo #batch 587 (part-time session
 
 <h3 align="left">Other tools used:</h3>
 
-* [LINE Login](https://developers.line.biz/en/services/line-login/)
-* [LINE Messaging API](https://developers.line.biz/en/services/messaging-api/)
-* [Scanner feature](https://plant.id/)
-* [Plants API](https://plant.id/)
-
-## Demo
-[Watch](#) Midorin demo from Le Wagon Tokyo's Demo Day in September 2021. 
-Available soon
+* [Google Books API](https://developers.google.com/books/docs/v1/using)
 	
 ## URL
-Midorin's website: https://www.midorin.one/
+CGL's website: https://cgl-hundibar.herokuapp.com/
 Final version available soon.
 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Credits
-Photos used in Midorin from Unsplash by:
-* Sarah Dorweiler
-* Element5 Digital
-* Malte Michels
-
-My garden logo 
-<a href='https://pngtree.com/so/Letter'>Letter png from pngtree.com/</a>
 
