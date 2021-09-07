@@ -1,5 +1,5 @@
 <h1 align="center">Central Gaijin Library - CGL </h1>
-<h3 align="center">Borrow the book in YOUR language</h3>
+<h3 align="center">Find books in YOUR language</h3>
 
 <div align="center">
 	<img width="300" height="600" src="https://github.com/HundiBar/central-gaijin-library/blob/master/app/assets/images/cgl.jpg">
@@ -18,10 +18,11 @@
 * [Contribution](#contributing)
 
 ## Introduction
-Our mobile application aims to be a digitalized library where foreigners in Japan can borrow books for free, in their language.  
 
+Do you have a a hard time finding books in your language in Japan? Either costly or just unavailable in some areas, this is an issue most foreigners will face here at some point.
+
+Our mobile application aims to be a solution to this problem: a digitalized library where foreigners in Japan can exchange books, in their language.  
 CGL has a range of books from all different genres, from kids to horror. 
-
 You can add value to the community by becoming a lender, and easily upload your book by using the ISBN form. 
 
 This app was our first team project from Le Wagon Tokyo #batch 587 (part-time session), made with love by [Dean](https://github.com/HundiBar), [Spencer](https://github.com/Smattison0830), [Troy ](https://github.com/troyruss) and [Mylene ](https://github.com/Ren33000).
@@ -35,6 +36,9 @@ This app was our first team project from Le Wagon Tokyo #batch 587 (part-time se
 <h3 align="left">Other tools used:</h3>
 
 * [Google Books API](https://developers.google.com/books/docs/v1/using)
+* [Mapbox](https://www.mapbox.com/)
+* [Devise](https://github.com/heartcombo/devise)
+* [Pundit](https://github.com/varvet/pundit)
 	
 ## URL
 CGL's website: https://cgl-hundibar.herokuapp.com/
