@@ -38,8 +38,8 @@ This app was our first team project from Le Wagon Tokyo #batch 587 (part-time se
 * [Pundit](https://github.com/varvet/pundit)
 	
 ## URL
-CGL's website: https://cgl-hundibar.herokuapp.com/
-Final version available soon.
+[CGL's website](https://cgl-hundibar.herokuapp.com/)
+(final version available soon).
 
 
 ## Contributing
